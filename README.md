@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Character-Level RNN Word Generator (PyTorch)
 
 A tiny character-level generative language model built with **PyTorch**.  
