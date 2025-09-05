@@ -128,4 +128,4 @@ print(f"Epoch {epoch+1}, lr: {optimizer.param_groups[0]['lr']}, Loss: {avg_loss:
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT [License](https://github.com/Vahid-Bastani-Najafabadi/Char-RNN-Generator/blob/main/LICENSE) – see the LICENSE file for details.
